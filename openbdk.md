@@ -1,4 +1,4 @@
-# OPEN BDK Project: Whitepaper
+# OPEN BDK : litepaper
 
 ---
 

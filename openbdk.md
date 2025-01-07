@@ -76,30 +76,31 @@ OPEN BDK (Blockchain Development Kit) is an innovative, developer-centric blockc
 
 - BDK Token:
   - **Utility**:
-    - Gas token within the OPEN BDK chain.
-    - Developer rewards.
-    - Governance token for DAIO voting.
-  - **Supply**: 10 billion BDK.
+    - Gas token within the OPEN BDK chain
+    - Developer rewards
+    - Governance token for DAIO voting
+  - **Supply**: 10 billion BDK
   - **Distribution**:
-    - 30% for developer grants and incentives.
-    - 20% for validator rewards.
-    - 15% for staking incentives.
-    - 15% for ecosystem treasury.
-    - 10% for liquidity and initial funding.
-    - 10% for community and partnerships.
+    - 30% developer grants and incentives
+    - 20% validator incentives (timelocked)
+    - 15% marketing incentives
+    - 10% ecosystem treasury
+    - 10% liquidity
+    - 10% for community and partnerships
+    - 5% initial funding
 
 - SATPAY Token:
   - **Utility**:
-    - Bitcoin-pegged gas token for stable transaction fees.
+    - Bitcoin-pegged gas token for stable transaction fees
   - **Supply**:
-    - Fully backed 1:1 with Bitcoin reserves.
+    - Fully backed 1:1 with Bitcoin reserves
 
 ### Fee Recycling Mechanism
 
 - Redistribution of transaction fees:
-  - 89% to validators.
-  - 8% to the DAIO treasury.
-  - 3% to developer incentives.
+  - 89% to validators
+  - 8% to the DAIO treasury
+  - 3% to developer incentives
 
 ---
 

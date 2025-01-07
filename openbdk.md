@@ -26,11 +26,11 @@ OPEN BDK (Blockchain Development Kit) is an innovative, developer-centric blockc
 - Incentive Systems:
   - Developer-centric tokenomics powered by BDK tokens.
 - Decentralized Governance:
-  - DAIO ensures equitable and community-driven decision-making.
+  - DAIO ensures equitable and AI enhanced community-driven decision-making
 - Interoperability:
-  - SATPAY as a universal Bitcoin-pegged gas token ensures seamless transactions across chains.
+  - BANKON SATPAY as a universal Bitcoin-pegged gas token ensures seamless transactions across chains
 - Innovative Tools:
-  - A suite of developer tools for dApp creation, node management, and ecosystem expansion.
+  - A suite of developer tools for dApp creation, node management, and ecosystem expansion
 
 ---
 

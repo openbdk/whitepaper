@@ -173,4 +173,4 @@ OPEN BDK (Blockchain Development Kit) is an innovative, developer-centric blockc
 
 OPEN BDK is a next-generation blockchain platform designed to empower developers and communities. By integrating scalable technology, decentralized governance, and sustainable tokenomics, OPEN BDK ensures long-term growth and innovation in the blockchain ecosystem.
 
-Its developer-first approach, combined with tools and grants, bridges the gap between blockchain infrastructure and real-world applications, creating a foundation for limitless possibilities.
+Its developer-first approach, combined with tools and grants, bridges the gap between blockchain infrastructure and real-world applications, creating a foundation for blockchain CI/CD

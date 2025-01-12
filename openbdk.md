@@ -86,7 +86,7 @@ OPEN BDK (Blockchain Development Kit) is an innovative, developer-centric blockc
     - 15% marketing incentives
     - 10% ecosystem treasury
     - 10% liquidity
-    - 10% for community and partnerships
+    - 10% for community marketing and development partnerships
     - 5% initial funding
 
 - SATPAY Token:
